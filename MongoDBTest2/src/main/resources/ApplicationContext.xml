@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:mongo="http://www.springframework.org/schema/data/mongo"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/data/mongo http://www.springframework.org/schema/data/mongo/spring-mongo-1.8.xsd">
+
+
+	
+
+<!-- 
+	<bean id="mongoClinet" class="com.mongodb.MongoClient">
+		<constructor-arg value="192.168.0.70" />
+		<constructor-arg value="27017" />
+	</bean>
+
+	<bean id="mongoDbFactory" class="org.springframework.data.mongodb.core.SimpleMongoDbFactory">
+		<constructor-arg ref="mongoClinet" />
+		<constructor-arg value="test33" />
+	</bean>
+ -->
+ 
+ 	<mongo:mongo host="192.168.0.70" port="27017" />
+ 	<mongo:db-factory dbname="test33"/>
+
+	
+	<bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
+		<constructor-arg ref="mongoDbFactory" />
+	</bean>
+
+</beans>
+
