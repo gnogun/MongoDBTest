@@ -25,7 +25,7 @@ public class MongoTest2 {
 	public void test() {
 //		selectAll();
 //		selectOne();
-//		insert();
+		insert();
 //		update();
 //		delete();
 //		sort();
@@ -54,9 +54,9 @@ public class MongoTest2 {
 
 	public void insert() {
 		Test123 test123 = new Test123();
-		test123.setName("name2");
-		test123.setQwe("qwe??");
-		test123.setNum(1234);
+		test123.setName("name123");
+		test123.setQwe("qwe??qwe");
+		test123.setNum(12347777);
 
 		mongoTemplate.save(test123);
 
@@ -81,14 +81,14 @@ public class MongoTest2 {
 
 	public void delete() {
 		Query query = new Query();
-		query.addCriteria(Criteria.where("name").is("gno"));
+		query.addCriteria(Criteria.where("name").is("name123"));
 		
 		System.out.println(query);
 		
 		Test123 obj = mongoTemplate.findOne(query, Test123.class);
 
 		// query호 삭제
-//		mongoTemplate.remove(query, Test123.class);
+		mongoTemplate.remove(query, Test123.class);
 		
 		// collection object로 삭제
 //		mongoTemplate.remove(obj);

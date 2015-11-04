@@ -1,6 +1,8 @@
 package com.latis.test;
 
+import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.index.Indexed;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 
@@ -14,13 +16,24 @@ public class Test123 {
 	}
 	
 	@Id
-	private String id;
+	private ObjectId id;
 	
+	@Indexed
 	private String name;
 	
 	private String qwe;
 	
 	private double num;
+	
+	
+
+	public ObjectId getId() {
+		return id;
+	}
+
+	public void setId(ObjectId id) {
+		this.id = id;
+	}
 
 	public String getName() {
 		return name;
