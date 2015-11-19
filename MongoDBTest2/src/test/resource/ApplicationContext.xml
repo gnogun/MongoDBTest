@@ -17,7 +17,7 @@
 	<bean id="mongoDbFactory"
 		class="org.springframework.data.mongodb.core.SimpleMongoDbFactory">
 		<constructor-arg ref="mongoClinet" />
-		<constructor-arg value="test33" />
+		<constructor-arg value="test" />
 	</bean>
 
 	<!-- <mongo:mongo id="mongo" host="192.168.0.70" port="27017" /> <mongo:db-factory 
@@ -40,7 +40,7 @@
 
 
 	<bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
-		<constructor-arg name="mongoDbFactory" ref="mongoDbFactory"></constructor-arg>
+		<constructor-arg name="mongoDbFactory" ref="mongoDbFactory"></constructor-arg>		
 		<constructor-arg name="mongoConverter" ref="mongoConverter"></constructor-arg>
 	</bean>
 

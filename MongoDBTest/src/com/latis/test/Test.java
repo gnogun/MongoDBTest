@@ -28,12 +28,15 @@ public class Test {
 //		collection.insertOne(document);
 		
 //		Document searchQuery = new Document();
-//		searchQuery.put("name", "gnogun");		
+//		searchQuery.put("name", "gnogun");
+		
 //		Document newDocument = new Document();
 //		Document newQuery = new Document();
 //		newQuery.put("111111111", 11110);
 //		newDocument.put("$set", newQuery);		
 //		collection.updateOne(searchQuery, newDocument);
+		
+		
 		
 		FindIterable<Document> findIterable = collection.find();
 		Iterator<Document> iterator = findIterable.iterator();

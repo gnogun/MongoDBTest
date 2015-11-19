@@ -95,7 +95,7 @@ public class GreetingServiceBean implements GreetingService{
 		return greeting;
 	}
 
-	@CacheEvict(value="testCache")
+	@CacheEvict(value="testCache", allEntries=true)
 	@Override
 	@Transactional(propagation=Propagation.REQUIRED, readOnly=false)
 //	@CachePut(value="greetings", key="#greeting.id" )
@@ -111,11 +111,7 @@ public class GreetingServiceBean implements GreetingService{
 		return savedGreeting;
 	}
 	
-	@Caching(
-			evict = {
-				@CacheEvict(value="testCache", key="#greeting.id")
-			}
-		)
+	@CacheEvict(value="testCache", allEntries=true)
 	@Override
 	@Transactional(propagation=Propagation.REQUIRED, readOnly=false)
 //	@CachePut(value="greetings", key="#greeting.id")
@@ -130,12 +126,7 @@ public class GreetingServiceBean implements GreetingService{
 		return updatedGreeting;
 	}
 	
-	@Caching(
-		evict = {
-			@CacheEvict(value="testCache", key="#id"),
-			@CacheEvict(value="testCache")
-		}
-	)
+	@CacheEvict(value="testCache", allEntries=true)
 	@Override
 	@Transactional(propagation=Propagation.REQUIRED, readOnly=false)
 //	@CacheEvict(value="greetings", key="#id" )
@@ -145,7 +136,7 @@ public class GreetingServiceBean implements GreetingService{
 	}
 
 	@Override
-	@CacheEvict(value="greetings", allEntries=true)
+	@CacheEvict(value="testCache", allEntries=true)
 	public void evictCache() {
 		// TODO Auto-generated method stub
 		

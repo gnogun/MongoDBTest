@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2010, v.4002 -->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<topic id="ch01_s06" xml:lang="en">
+	<title><?Pub Dtl?>
+		Important Safety Precautions
+	</title>
+	<body>
+		<p>Please use the machine in the proper environment to extend the
+			machine's lifespan. Use the machine in a safe and stable place.</p>
+		<p>
+			<b>The warranty does not cover any damage resulting from reckless
+				use or use in undesirable environments.</b>
+		</p>
+		<section>
+			<title>Product Installation/Usage Precautions</title>
+			<note type="caution">
+				<table colsep="0" frame="none" rowsep="0">
+					<tgroup cols="2" colsep="0" rowsep="0">
+						<colspec colname="1" colnum="1" colsep="0" colwidth="0.68*" />
+						<colspec colname="2" colnum="2" colsep="0" colwidth="4.32*" />
+						<tbody>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_01.png" scope="local"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Place the machine in a safe place so it does
+											not fall.</b>
+									</p>
+									<ul>
+										<li>
+											<p>If dropped, the machine may be damaged or cause an injury.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_02.png" scope="local"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Use the product in a clean, dust-free environment.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, the system may not function properly.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../common\pl_install_use_03.png" scope="local">
+									</image>
+								</entry>
+								<entry>
+									<p>
+										<b>Do not place any objects within 15 cm of the PC.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Lack of ventilation may overheat the PC from inside and
+												put
+												users at risk of burn injuries.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_04.png" scope="local"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not store or use the PC near a magnetic
+											object (i.e. a bag with a magnetic object, a diary, a wallet, a
+											memo
+											board, high-powered speakers, a bracelet, or etc.).</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, the storage device (HDD, SSD, eMMC) and the
+												system
+												may be damaged, and the system may fail to operate properly.</p>
+										</li>
+									</ul>
+									<p>
+										<b>Do not use the PC on a bag with magnetic objects attached
+											to it.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, the storage device and the system may be
+												damaged,
+												and the system may fail to operate properly.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_05.png" scope="local"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Operate the product where there is no electromagnetic
+											interference.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Keep a proper distance between the PC and electronic
+												appliances
+												such as radios or speakers that generate strong magnetic fields.</p>
+										</li>
+										<li>
+											<p>Otherwise, data may be lost from the storage device (HDD,
+												SSD,
+												eMMC) or the LCD color may be damaged.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_06.png" scope="local"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not connect a key-phone line to a wired
+											LAN port.</b>
+									</p>
+									<ul>
+										<li>
+											<p>A fire may occur or the product may get damaged.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_07.png" scope="local"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>If the LCD screen is damaged, do not touch
+											LCD with your hands.
+										</b>
+									</p>
+									<ul>
+										<li>
+											<p>Contact the service center as it may cause an injury.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_08..png" scope="local"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not leave any objects such as a pen between
+											the keypad and the LCD.</b>
+									</p>
+									<ul>
+										<li>
+											<p>You might break the LCD by unwittingly closing it with a
+												foreign
+												object remaining on the pad.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_09..png" scope="local"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not press or scratch the LCD with a sharp
+											object.</b>
+									</p>
+									<ul>
+										<li>
+											<p>It may cause impairment.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_10.png" scope="local"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Ensure the power is off before shutting the
+											LCD.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The product may catch fire, be broken or deformed due to
+												temperature
+												rise.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_11.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not impose excessive force on the LCD screen
+											or drop it.</b>
+									</p>
+									<ul>
+										<li>
+											<p>You may break the LCD glass panel.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_12.png">
+									</image>
+								</entry><?Pub Caret 0?>
+								<entry rowsep="1">
+									<p>
+										<b>Do not forcibly open the LCD screen with one
+											hand.</b>
+									</p>
+									<ul>
+										<li>
+											<p>External impact may be inflicted on the machine.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_13.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>To clean the LCD screen, use designated agents
+											and soft cloth and rub the screen in one direction.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Too much force may damage the LCD screen.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_14.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>When handling PC parts, follow the instructions
+											in the manual.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, the product may get damaged.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_15.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Install a vaccine program on your PC and do
+											not download illegal programs nor access any corruptive web site
+											such
+											as those pushing pornographic contents.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The system may be infected and impaired.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_16.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not insert devices other than designated
+											ones in the ports.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, the product may get damaged.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_17.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>
+											Do not press the Eject button while the optical
+											disk drive
+											<wintitle translate="no">(CD/DVD/Blu-ray)</wintitle>
+											is
+											running.
+										</b>
+									</p>
+									<ul>
+										<li>
+											<p>The data may be lost or the disk may spin out unexpectedly
+												to cause an injury.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_18.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>
+											Do not use a damaged optical disc
+											<wintitle translate="no">(CD/DVD/Blu-ray)</wintitle>
+											.
+										</b>
+									</p>
+									<ul>
+										<li>
+											<p>It may cause product damage or physical injury.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_19.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Avoid using a wireless LAN connection within
+											the 5 m radius of a microwave or plasma lamp. If you have to use
+											wireless
+											LAN and a plasma bulb within the range, do so between channels
+											11
+											and 13.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The transmission rate may drop even if the connection is
+												made.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+<?PubTbl row rht="1.42in"?>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_20.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Turn off the PC if you are not going to use
+											it for an extended period of time.</b>
+									</p>
+									<ul>
+										<li>
+											<p>It may overheat the battery.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../common\pl_install_use_21.png"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>Make sure that the memory cover is securely closed before
+											turning on the PC.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Do not use the machine when the memory cover is open. It
+												may
+												damage the machine.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_23.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>
+											Please use parts certified by
+											<tm tmtype="tm">LG Electronics Inc</tm>
+											.
+										</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, a fire or product damage may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_22.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>
+											Consult our service engineer before you use
+											a peripheral device not manufactured by
+											<tm tmtype="tm">LG Electronics
+												Inc.</tm>
+										</b>
+									</p>
+									<ul>
+										<li>
+											<p>The product may get damaged.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_24.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Handle devices and parts of the machine with
+											care.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The product may get damaged.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../common\pl_install_use_25.png"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>Do not drop any part or device of the machine while
+											disassembling
+											it.</b>
+									</p>
+									<ul>
+										<li>
+											<p>If dropped, it may be damaged and cause an injury.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</note>
+			<note type="warning">
+				<table colsep="0" frame="none" rowsep="0">
+					<tgroup cols="2" colsep="0" rowsep="0">
+						<colspec colname="1" colnum="1" colsep="0" colwidth="0.65*" />
+						<colspec colname="2" colnum="2" colsep="0" colwidth="4.35*" />
+						<tbody>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_01.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Dispose of the desiccating agent and plastic
+											wrap properly.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The desiccating agent and plastic wrap may cause
+												suffocation.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_02.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not use the machine in damp places like
+											a laundry room or bathroom.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Moisture may cause a glitch or electric shock.</p>
+										</li>
+										<li>
+											<p>Please use the machine within the appropriate temperature
+												range
+												(10 °C to 35 °C) and humidity range (20% RH to 80% RH).</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_03.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Clean the PC with a proper agent and dry it
+											completely before using it again.</b>
+									</p>
+									<ul>
+										<li>
+											<p>If the PC is used while wet, an electric shock or fire may
+												occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_04.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>When lightning flashes in your area, disconnect
+											the power, wired LAN and other connections.</b>
+									</p>
+									<ul>
+										<li>
+											<p>An electric shock or fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_05.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not leave a cup or other containers filled
+											with watery substance near the PC.</b>
+									</p>
+									<ul>
+										<li>
+											<p>In the case that liquid goes inside the PC, a fire or
+												electric
+												shock may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_06.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>If you have dropped or damaged the PC, disconnect
+											the power and contact the local service center for a safety
+											check.</b>
+									</p>
+									<ul>
+										<li>
+											<p>If a damaged PC is used continuously, an electric shock or
+												fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_07.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not put a lit candle or live cigarette
+											on the PC.</b>
+									</p>
+									<ul>
+										<li>
+											<p>A fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_22.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>If you detect or smell smoke from the PC,
+											stop use immediately and disconnect the power source before
+											contacting
+											your local service center.</b>
+									</p>
+									<ul>
+										<li>
+											<p>A fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_08.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>As the AC adapter can be hot, do not touch
+											it with bare skin while using it.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Extended period of exposure may cause burn.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_10.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>The bottom of the PC gets hot when the system
+											is in operation. Do not touch or put it on your lap.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Extended period of exposure may cause burn.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_11.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not play the PC games excessively.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Playing a PC game for an extended period of time may cause
+												a mental disorder. It may also inflict physical impairments
+												on the
+												elderly and children.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_12.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not put your finger or an object into PC
+											ports.</b>
+									</p>
+									<ul>
+										<li>
+											<p>An injury or electric shock may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_22.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Ask one of our engineers to run a safety check
+											after your computer has been repaired.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, an electric shock or fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_13.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>For minors, we recommend a program that blocks
+											access to illegal or pornographic web sites.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Minors' exposure to adult-only contents may inflict
+												psychological
+												instability or even trauma on them. Take an extra precaution for your
+												children if the whole family is using this machine.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_14.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Keep the machine away from heat-emitting devices
+											such as a heater.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The product may get deformed or catch on fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_15.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>
+											Prevent children from thrusting their finger
+											into the optical disk drive
+											<wintitle translate="no">(CD/DVD/Blu-ray)</wintitle>
+											tray.
+										</b>
+									</p>
+									<ul>
+										<li>
+											<p>The finger may be stuck in the tray and injured.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\pl_install_use_17.png">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>
+											To remove an optical disc
+											<wintitle translate="no">(CD/DVD/Blue-ray)</wintitle>
+											from the tray, turn off
+											the program accessing the disc and wait until the disc drive
+											light
+											is turned off before pressing the [Eject] button.
+										</b>
+									</p>
+									<ul>
+										<li>
+											<p>The optical disk spins fast inside the tray and may be
+												ejected
+												from the tray to cause bodily injury.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_16.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not block the ventilation hole with any
+											object.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, an electric shock may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_17.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not leave the machine in a car.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The battery may cause an explosion or fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_18.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>To upgrade the PC, turn off the system and
+											disconnect the power cord and battery. If the wired LAN is connected,
+											disconnect the network cable.</b>
+									</p>
+									<ul>
+										<li>
+											<p>An electric shock or fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../\common\pl_install_use_warring_19.png"
+										scope="local"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>When you upgrade the PC, ensure that children will not
+											swallow any parts including bolts.</b>
+									</p>
+									<ul>
+										<li>
+											<p>If a child swallowed a nut, he or she may get suffocated.</p>
+										</li>
+										<li>
+											<p>In that case, see the doctor immediately.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_20.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not disassemble or moderate the machine
+											arbitrarily.</b>
+									</p>
+									<ul>
+										<li>
+											<p>It may cause an electric shock and the customer is not
+												entitled
+												to request free-of-charge warranty service.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../\common\pl_install_use_warring_21.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>If you dissemble the PC, connect the power
+											after reassembly is done.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Any exposed part may give you an electric shock.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+<?PubTbl row rht="1.34in"?>
+								<entry>
+									<image href="../../\common\pl_install_use_warring_22.png"
+										scope="local"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>Do not put in metal items such as coins, hair pin or
+											other irons or inflammables such as paper or matches. Especially,
+											ensure that children will not do so.</b>
+									</p>
+									<ul>
+										<li>
+											<p>A fire or electric shock may occur.</p>
+										</li>
+										<li>
+											<p>If any foreign substance gets in the product, unplug the
+												product
+												and contact the local service center.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</note>
+		</section>
+		<section>
+			<title>Product Storage/Transportation Precautions</title>
+			<note type="caution">
+				<table colsep="0" frame="none" rowsep="0">
+					<tgroup cols="2" colsep="0" rowsep="0">
+						<colspec colname="1" colnum="1" colsep="0" colwidth="1*" />
+						<colspec colname="2" colnum="2" colsep="0" colwidth="4.5*" />
+						<tbody>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../\common\pl_install_use_warring_18.png"
+										scope="local">
+									</image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Before carrying the machine, turn off the
+											power and disconnect all the cables.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, you may trip over the wire, damaging the PC and
+												sustaining an injury.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Custody_01.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not carry the machine with the LCD open.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, the product may get damaged.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Custody_02.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Protect the machine from any shock while
+											carrying it.</b>
+									</p>
+									<ul>
+										<li>
+											<p>System damage or an injury may result.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Custody_03.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Carry the product in a bag designed for it.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Carrying it in another type of bag may result in product
+												damage.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../common\PL_Custody_04.png"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>Do not put any heavy object on the PC.</b>
+									</p>
+									<ul>
+										<li>
+											<p>There is the risk of malfunction. If the object were to
+												fall,
+												it may cause an injury or damage the machine.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</note>
+			<note type="warning">
+				<table colsep="0" frame="none" rowsep="0">
+					<tgroup cols="2" colsep="0" rowsep="0">
+						<colspec colname="1" colnum="1" colsep="0" colwidth="1*" />
+						<colspec colname="2" colnum="2" colsep="0" colwidth="4.5*" />
+						<tbody>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Custody_05.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>During air travel, follow the directions
+											of flight attendants.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Using the PC during flight may cause an aircraft accident.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Custody_06.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>When leaving the machine in a car, avoid
+											exposure to direct sunlight.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The product may get deformed or caught on fire due to a
+												temperature
+												rise.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../common\PL_Custody_07.png"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>Do not put any heavy object on the power cable and AC
+											adapter, and avoid damage from impacts.</b>
+									</p>
+									<ul>
+										<li>
+											<p>A malfunction or fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="0">
+								<entry colname="1">
+									<image href="../../common\PL_Custody_08.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Do not leave the powered-on PC in a space
+											without enough ventilation (i.e. bags) for an extended or repeated
+											time.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The battery may overheat and cause a fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</note>
+		</section>
+		<section>
+			<title>Battery and AC Adapter Precautions</title>
+			<note type="warning">
+				<table colsep="0" frame="none" rowsep="0">
+					<tgroup cols="2" colsep="0" rowsep="0">
+						<colspec colname="1" colnum="1" colsep="0" colwidth="1*" />
+						<colspec colname="2" colnum="2" colsep="0" colwidth="4*" />
+						<tbody>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_01.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>When the PC is not used for an extended period
+											of time, keep the battery level at 50%.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Do not leave the product with discharged battery for an
+												extended
+												period of time. It may damage the battery.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+<?PubTbl row rht="1.50in"?>
+								<entry colname="1">
+									<image href="../../common\PL_Battery_26.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Charge the battery only with the provided
+											instrument.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, the battery may be damaged presenting a risk of
+												fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_27.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Do not throw or disassemble the battery.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The resulting damage may cause an injury, explosion, or
+												fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_02.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>
+											Use batteries certified and acknowledged
+											by
+											<tm tmtype="tm">LG Electronics Inc</tm>
+											.
+										</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, an explosion or fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_03.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Prevent the battery from being in contact
+											with any metallic object like a car ignition key or a paper clip.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, this may cause damage to the battery, a fire or
+												burn due to overheat in the battery.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_04.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Keep the battery away from heat.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, an explosion or fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_05.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Do not short-circuit the battery.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, it may explode.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_06.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Do not dispose of a spent or backup (standby)
+											battery arbitrarily.</b>
+									</p>
+									<ul>
+										<li>
+											<p>It may explode or cause a fire.</p>
+										</li>
+										<li>
+											<p>Disposal methods may differ by country and region. Dispose
+												of spent batteries in accordance with the laws and safety
+												rules of
+												the country and region you reside in.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_07.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>If you find leakage or smell bad odor from
+											the battery, remove the battery and contact the local service
+											center.</b>
+									</p>
+									<ul>
+										<li>
+											<p>It may explode or cause a fire. </p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+<?PubTbl row rht="1.55in"?>
+								<entry colname="1">
+									<image href="../../common\PL_Battery_08.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Do not store in places with temperatures
+											above 60 °C and high humidity (in cars or saunas).</b>
+									</p>
+									<ul>
+										<li>
+											<p>It may explode or cause a fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_09.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Keep the battery out of the reach of children
+											or pets.</b>
+									</p>
+									<ul>
+										<li>
+											<p>If damaged, it may cause an injury.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_10.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Keep the battery from being pierced by a
+											sharp object or chewed by pets.</b>
+									</p>
+									<ul>
+										<li>
+											<p>It may explode or cause a fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../common\PL_Battery_11.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Do not put the battery in water.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, the battery may be damaged or explode.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_12.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not use the PC on top of carpet, blanket
+											or bed. Also, do not put the adapter under the blanket.</b>
+									</p>
+									<ul>
+										<li>
+											<p>This may cause a malfunction, fire or burn due to overheat
+												in the PC and adapter.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../common\pl_install_use_14.png"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>Read the battery usage precautions carefully before use.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Keep the battery at the room temperature. Refer to Tips in
+												LG Easy Guide and Installation Guide to use and store the
+												battery
+												properly.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+<?PubTbl row rht="1.30in"?>
+								<entry>
+									<image href="../../common\PL_Battery_13.png"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>Ensure that the power jack linked to the AC adapter and
+											product is connected firmly.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Loose connection may cause malfunction or fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+<?PubTbl row rht="1.30in"?>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_14.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not bend the power cable for AC adapter
+											too much or get stamped by a sharp object.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The wires inside the cable may break and cause electric
+												shock
+												or fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_15.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not use loose plugs or damaged power cords.</b>
+									</p>
+									<ul>
+										<li>
+											<p>An electric shock or fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_16.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Do not touch the power cord with your hands
+											wet.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, an electric shock may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_17.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Pull the plug, not the cord, to disconnect
+											the AC adapter and power jack.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, a fire or product damage may occur. </p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_18.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Operate the product at the proper voltage.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Excessive voltage may result in damage on the product,
+												electric
+												shock or fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_19.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Use power outlets with an earth pin installed
+											and proper supply of rated electricity.</b>
+									</p>
+									<ul>
+										<li>
+											<p>An electric leakage may cause an electric shock or fire.</p>
+										</li>
+										<li>
+											<p>The shape of the power cord and outlet may differ by
+												country
+												and region.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_20.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Plug the power cord tightly into the outlet.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Loose connection of the power cord may cause a fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_28.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>In the case of strange noise from the cord
+											or plug, disconnect the power cord from the outlet immediately
+											and
+											contact the service center.</b>
+									</p>
+									<ul>
+										<li>
+											<p>A fire or electric shock may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_21.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Use the power supply/adapter provided with
+											the product and never disassemble the product.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Using a different product or disassembling it may cause an
+												electric shock or fire.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_22.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Ensure that the power outlet is earthed before
+											plugging in.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, an electric shock from power leakage may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_23.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Always keep the AC adapter and power outlet
+											clean.</b>
+									</p>
+									<ul>
+										<li>
+											<p>A fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_24.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Keep children and pets from damaging the power
+											cord.</b>
+									</p>
+									<ul>
+										<li>
+											<p>It may cause a fire or an electric shock.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_25.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>Disconnect the PC completely before cleaning
+											it.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, an electric shock or impairment may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../common\PL_Battery_29.png"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>If the power/AC adapter or the product is soaked,
+											disconnect
+											the battery, power/AC adapter, and all other lines before
+											contacting
+											the local service center.</b>
+									</p>
+									<ul>
+										<li>
+											<p>An electric shock or fire may occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry rowsep="1">
+									<image href="../../common\PL_Battery_30.png"></image>
+								</entry>
+								<entry rowsep="1">
+									<p>
+										<b>When installing the battery, be sure that
+											the bottom of the PC is locked in place.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Otherwise, the battery may be damaged.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</note>
+		</section>
+		<section>
+			<title>Other Safety Precautions</title>
+			<note type="caution">
+				<table colsep="0" frame="none" rowsep="0">
+					<tgroup cols="2" colsep="0" rowsep="0">
+						<colspec colname="1" colnum="1" colsep="0" colwidth="1.00*" />
+						<colspec colname="2" colnum="2" colsep="0" colwidth="4.50*" />
+						<tbody>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../\common\PL_Other_02.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Handle the machine with care to prevent loss
+											of data from the storage device (HDD, SSD, eMMC).</b>
+									</p>
+									<ul>
+										<li>
+											<p>Since the storage device is fragile, you need to back up
+												your
+												important data frequently.</p>
+										</li>
+										<li>
+											<p>The manufacturer is not responsible for any storage device
+												data loss caused by a user's mistake.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1">
+									<image href="../../\common\PL_Other_01.png"></image>
+								</entry>
+								<entry colname="2">
+									<p>
+										<b>Damage to the storage device (HDD, SSD, eMMC)
+											and data loss may occur when:
+										</b>
+									</p>
+									<ul>
+										<li>
+											<p>External shocks are inflicted on the machine while
+												disassembling
+												or installing it.</p>
+										</li>
+										<li>
+											<p>The machine is reset (i.e. restarted) or turned on again
+												after
+												a power outage while the storage device is operating.</p>
+										</li>
+										<li>
+											<p>The PC is infected with a virus, tainting the data
+												irrecoverably.</p>
+										</li>
+										<li>
+											<p>Abrupt turning-off of the PC can damage the PC.</p>
+										</li>
+										<li>
+											<p>If the product is moved, shaken or exposed to external
+												shock
+												while the storage device is running, file damage or bad sectors
+												may
+												occur.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../\common\PL_Other_03.png"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>To minimize data loss resulting from storage device damage
+											(HDD, SSD, eMMC), frequently back up important data.</b>
+									</p>
+									<ul>
+										<li>
+											<p>The manufacturer is not responsible for any data loss.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<image href="../../\common\PL_Other_04.png"></image>
+								</entry>
+								<entry>
+									<p>
+										<b>We do not refund or replace a product that malfunctions
+											due to the installation or use of an operating system other than
+											the
+											one provided by LG Electronics Inc.</b>
+									</p>
+									<ul>
+										<li>
+											<p>Some software applications may not work properly in other
+												operating
+												systems. Such malfunctions are not covered by the warranty.</p>
+										</li>
+									</ul>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</note>
+		</section>
+	</body>
+</topic>
+<?Pub *0000032804 0?>

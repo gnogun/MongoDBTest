@@ -21,36 +21,38 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @EnableCaching
 public class CacheConfig implements CachingConfigurer {
-    @Bean(destroyMethod="shutdown")
-    public net.sf.ehcache.CacheManager ehCacheManager() {
-        CacheConfiguration cacheConfiguration = new CacheConfiguration();
-        cacheConfiguration.setName("testCache");
-        cacheConfiguration.setMemoryStoreEvictionPolicy("LRU");
-        cacheConfiguration.setMaxEntriesLocalHeap(1000);
+	
+	@Bean(destroyMethod = "shutdown")
+	public net.sf.ehcache.CacheManager ehCacheManager() {
+		CacheConfiguration cacheConfiguration = new CacheConfiguration();
+		cacheConfiguration.setName("testCache");
+		cacheConfiguration.setMemoryStoreEvictionPolicy("LRU");
+		cacheConfiguration.setMaxEntriesLocalHeap(1000);
 
-        net.sf.ehcache.config.Configuration config = new net.sf.ehcache.config.Configuration();
-        config.addCache(cacheConfiguration);
-        
-        net.sf.ehcache.CacheManager cacheManager = net.sf.ehcache.CacheManager.newInstance(config);
-        
-        MBeanServer mBeanServer = ManagementFactory.getPlatformMBeanServer(); 
-    	ManagementService.registerMBeans(cacheManager, mBeanServer, false, false, false, 
-    	true);
+		net.sf.ehcache.config.Configuration config = new net.sf.ehcache.config.Configuration();
+		config.addCache(cacheConfiguration);
 
-        return cacheManager;
-    }
+		net.sf.ehcache.CacheManager cacheManager = net.sf.ehcache.CacheManager
+				.newInstance(config);
 
-    @Bean
-    @Override
-    public CacheManager cacheManager() {
-        return new EhCacheCacheManager(ehCacheManager());
-    }
+		MBeanServer mBeanServer = ManagementFactory.getPlatformMBeanServer();
+		ManagementService.registerMBeans(cacheManager, mBeanServer, false,
+				false, false, true);
 
-    @Bean
-    @Override
-    public KeyGenerator keyGenerator() {
-        return new SimpleKeyGenerator();
-    }
+		return cacheManager;
+	}
+
+	@Bean
+	@Override
+	public CacheManager cacheManager() {
+		return new EhCacheCacheManager(ehCacheManager());
+	}
+
+	@Bean
+	@Override
+	public KeyGenerator keyGenerator() {
+		return new SimpleKeyGenerator();
+	}
 
 	@Override
 	public CacheResolver cacheResolver() {
