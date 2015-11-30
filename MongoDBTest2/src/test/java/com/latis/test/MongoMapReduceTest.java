@@ -12,6 +12,8 @@ import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
+import com.mongodb.operation.AggregateOperation;
+
 @ContextConfiguration(locations = { "file:src/test/resource/ApplicationContext.xml" })
 @RunWith(SpringJUnit4ClassRunner.class)
 public class MongoMapReduceTest {
@@ -29,7 +31,7 @@ public class MongoMapReduceTest {
 				MapReduceObject.class);// mapreduce object
 		
 		
-		MapReduceOptions mapReduceOptions = new MapReduceOptions();
+		
 		
 		
 		
