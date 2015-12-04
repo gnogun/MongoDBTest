@@ -29,11 +29,7 @@ public class MyRepositoyFactory<T, ID extends Serializable> extends
 	@Override
 	protected Object getTargetRepository(RepositoryInformation information) {
 		// TODO Auto-generated method stub
-		
-		MongoPersistentEntity<T> entity = new BasicMongoPersistentEntity<T>(ClassTypeInformation.from((Class<T>)information.getDomainType()));
-		MongoEntityInformation<T,Serializable> mongometa = new MappingMongoEntityInformation<T, Serializable>(entity);
-		
-		return new TestRepositoryCustomImpl<T, Serializable>(mongometa, mongoOperations);
+		return super.getTargetRepository(information);
 	}
 
 

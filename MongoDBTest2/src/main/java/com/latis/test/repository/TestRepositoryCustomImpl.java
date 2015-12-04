@@ -12,10 +12,14 @@ public class TestRepositoryCustomImpl<T, ID extends Serializable>
 	extends SimpleMongoRepository<T, Serializable>
 	implements TestRepositoryCustom<T, ID>{
 
+	private final MongoOperations mongoOperations;
+	
 	public TestRepositoryCustomImpl(
 			MongoEntityInformation<T, Serializable> metadata,
 			MongoOperations mongoOperations) {
 		super(metadata, mongoOperations);
+		
+		this.mongoOperations = mongoOperations;
 		// TODO Auto-generated constructor stub
 	}
 

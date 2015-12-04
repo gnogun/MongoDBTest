@@ -40,14 +40,17 @@
 
 
 	<bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
-		<constructor-arg name="mongoDbFactory" ref="mongoDbFactory"></constructor-arg>		
+		<constructor-arg name="mongoDbFactory" ref="mongoDbFactory"></constructor-arg>
 		<constructor-arg name="mongoConverter" ref="mongoConverter"></constructor-arg>
 	</bean>
+<!-- 
+	<mongo:repositories base-package="com.latis.test.repository"
+		factory-class="com.latis.test.repository.factory.MyRepositoryFactoryBean"
+		mongo-template-ref="mongoTemplate">
+	</mongo:repositories>
+ -->
+	<mongo:repositories base-package="com.latis.test.repository" base-class="com.latis.test.repository.TestRepositoryCustomImpl"></mongo:repositories>
 
-	<mongo:repositories base-package="com.latis.test.repository"></mongo:repositories>
-
-	<!-- <mongo:repositories base-package="com.latis.test.repository" factory-class="com.latis.test.repository.factory.MyRepositoryFactoryBean" 
-		mongo-template-ref="mongoTemplate"> </mongo:repositories> -->
 
 
 </beans>

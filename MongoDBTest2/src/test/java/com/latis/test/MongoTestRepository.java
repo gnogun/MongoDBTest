@@ -3,6 +3,7 @@ package com.latis.test;
 import java.io.Serializable;
 import java.util.List;
 
+import org.bson.types.ObjectId;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,6 +16,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.latis.test.repository.TestRepository;
 import com.latis.test.repository.TestRepositoryCustom;
+import com.latis.test.repository.TestRepositoryCustomImpl;
 import com.latis.test.repository.factory.MyRepositoryFactoryBean;
 
 
@@ -40,6 +42,8 @@ public class MongoTestRepository {
 		
 		
 		Iterable<Test123> list = repository.findAll();
+		repository.customMethod();
+		
 		
 		for(Test123 obj : list){
 			System.out.println(obj);
